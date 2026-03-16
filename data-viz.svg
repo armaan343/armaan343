@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="800" height="400" fill="#f4f1eb" rx="12"/>
+  <rect x="80" y="50" width="640" height="300" fill="white" stroke="#e0dcd4" rx="8"/>
+  <line x1="120" y1="300" x2="680" y2="300" stroke="#1a3c5e" stroke-width="2"/>
+  <line x1="120" y1="80" x2="120" y2="300" stroke="#1a3c5e" stroke-width="2"/>
+  <rect x="160" y="180" width="50" height="120" fill="#1a3c5e" rx="4"/>
+  <rect x="230" y="120" width="50" height="180" fill="#d4883a" rx="4"/>
+  <rect x="320" y="200" width="50" height="100" fill="#1a3c5e" rx="4"/>
+  <rect x="390" y="100" width="50" height="200" fill="#d4883a" rx="4"/>
+  <rect x="480" y="160" width="50" height="140" fill="#1a3c5e" rx="4"/>
+  <rect x="550" y="140" width="50" height="160" fill="#d4883a" rx="4"/>
+  <text x="400" y="380" text-anchor="middle" fill="#6b7280" font-family="sans-serif" font-size="14">Replace with your own image</text>
+</svg>
